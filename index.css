@@ -30,7 +30,7 @@ body{
 }
 .container input[type="password"],.container input[type="text"]{
     background-color: transparent;
-    color: #ff00156f;
+    color: black;
     font-weight: 900;
     font-size: medium;
     width: 100%;
